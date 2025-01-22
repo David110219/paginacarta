@@ -39,7 +39,7 @@ p {
 
 
 img {
-    max-width: 30%; /* Las imágenes ocuparán como máximo el 80% del ancho del contenedor */
+    max-width: 80%; /* Las imágenes ocuparán como máximo el 80% del ancho del contenedor */
     height: auto; /* Mantendrá la relación de aspecto original */
     border-radius: 10px; /* Bordes redondeados */
     margin: 20px 0; /* Espaciado arriba y abajo de las imágenes */
